@@ -5,7 +5,7 @@
 body{
     background-color: #D5E1EF;
 
-    font-family: 'Outfit';
+    font-family: 'Outfit', Arial, Helvetica, sans-serif;
 }
 
 .main-header{
@@ -22,7 +22,7 @@ body{
 .container{
     display: flex;
 
-    width: 300px;
+    width: 20rem;
 
     text-align: center;
 
